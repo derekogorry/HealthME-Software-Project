@@ -1,4 +1,4 @@
-# HealthME-Software-Project - Full-Stack Telehealth Platform
+HealthMe - Full-Stack Telehealth Platform
 
 Site URL: https://healthme-496r.onrender.com
 
